@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996501529475",
+    "firebase_url": "https://chat-kar-b5849.firebaseio.com",
+    "project_id": "chat-kar-b5849",
+    "storage_bucket": "chat-kar-b5849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996501529475:android:cad3af6c30982c579d0cb6",
+        "android_client_info": {
+          "package_name": "com.example.chat_kar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996501529475-1agbqvj1gh3ul8r98dp0l6g26fa9cvk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_kar",
+            "certificate_hash": "90e89d47f5d1d7ad9645e4bb4e44e8d73e73ef84"
+          }
+        },
+        {
+          "client_id": "996501529475-v395n9i43d1v3r8dftndak7328j4e7pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28P2UnUPwC8Qg7DteFFvJckXlFJT_qcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996501529475-v395n9i43d1v3r8dftndak7328j4e7pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
